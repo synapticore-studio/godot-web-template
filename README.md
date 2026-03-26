@@ -1,5 +1,7 @@
 # synapticore.studio Template
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71WOHZ3)
+
 [![Deploy to GitHub Pages](https://github.com/synapticore-studio/godot-web-template/actions/workflows/export-web.yml/badge.svg)](https://github.com/synapticore-studio/godot-web-template/actions/workflows/export-web.yml)
 [![Godot 4.6](https://img.shields.io/badge/Godot-4.6-478CBF?logo=godotengine&logoColor=white)](https://godotengine.org/)
 [![WebAssembly](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=white)](https://webassembly.org/)
